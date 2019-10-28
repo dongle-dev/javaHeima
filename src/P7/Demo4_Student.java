@@ -1,6 +1,6 @@
 package P7;
 
-class Demo4_Student {
+public class Demo4_Student {
 	public static void main(String[] args) {
 		Student s1 = new Student();					//使用空参构造
 		s1.setName("张三");							//设置姓名
